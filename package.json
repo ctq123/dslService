@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "koa": "^2.13.1"
+    "download-git-repo": "^3.0.2",
+    "fs-sync": "^1.0.6",
+    "koa": "^2.13.1",
+    "shelljs": "^0.8.4"
   }
 }
